@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- tool bar color is controled by colorPrimary -->
+    <color name="colorPrimary">#3f51b5</color>
+
+    <!-- status bar color is controled by colorPrimaryDark -->
+    <color name="colorPrimaryDark">#303f9f</color>
+
+    <!-- content color is controled by colorAccent -->
+    <color name="colorAccent">#e040fb</color>
+
+    <!-- tool bar text color is controled by textColorPrimary -->
+    <color name="textColorPrimary">#fcfcfc</color>
+
+    <!-- application background color bar is controled by windowBackground -->
+    <!-- navigation color bar is controled by navigationBarColor -->
+    <color name="navigationBarColor">#8BC34A</color>
+
+
+    <!-- status bar is controled by colorPrimaryDark -->
+    <!-- status bar is controled by colorPrimaryDark -->
+    <!-- status bar is controled by colorPrimaryDark -->
+    <!-- status bar is controled by colorPrimaryDark -->
+    <!-- status bar is controled by colorPrimaryDark -->
+
+
+</resources>
